@@ -1,3 +1,16 @@
+.jumbotron {
+  background-image: green;
+  height: 700px;
+  padding: 20px;
+  margin-top: 100px;
+  -webkit-transform: skewY(-2deg);
+  -moz-transform: skewY(-2deg);
+  -ms-transform: skewY(-2deg);
+  -o-transform: skewY(-2deg);
+  transform: skewY(-2deg);
+  overflow:hidden;
+}
+
 .nav-bar {
     width: 100%;
     overflow: hidden;
